@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry path="src" kind="src"/>
+	<classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"/>
+	<classpathentry path="com.genuitec.eclipse.j2eedt.core.J2EE14_CONTAINER" kind="con"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/antlr.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/commons-beanutils.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/commons-digester.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/commons-fileupload.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/commons-logging.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/commons-validator.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/jakarta-oro.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/struts.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/lib/log4j-1.2.12.jar" kind="lib"/>
+	<classpathentry path="WebRoot/WEB-INF/classes" kind="output"/>
+</classpath>
